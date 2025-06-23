@@ -31,7 +31,7 @@ O APK pode ser baixado e utilizado em: https://drive.google.com/file/d/1_eCC4UHN
 
 📚 Documentação da API
 
-A documentação da API está acessível no arquivo "Documentação API, em formato PDF e presente neste repositório.
+A documentação da API está acessível em: https://app.swaggerhub.com/apis/faculdadecinciadacom/SOS-Meio-Ambiente/1.0.0
 
 
 🤝 Como Posso Contribuir?
