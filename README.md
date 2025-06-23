@@ -1,16 +1,45 @@
-# sos_projeto_ifc_2
+# APP SOS Meio Ambiente
 
-A new Flutter project.
+🚀 Sobre o projeto
 
-## Getting Started
+Este trabalho é resultante do Projeto Interdisciplinar do Curso de Ciência da Computação do Instituto Federal Catarinense (IFC) - Campus Videira, tendo como objetivo geral a implemetação de um protótipo para a mitigação do descarte inadequado de resíduos.
 
-This project is a starting point for a Flutter application.
+O protótipo desenvolvido permite que os usuários "denunciantes" realizem o cadastro no sistema, registrem denúncias de descarte incorreto e acompanhem o status das denúncias realizadas. Além disso, possibilita que o usuário "órgão competente" realize à avaliação e à classificação do tipo de descarte identificado na imagem destas denúncias e também permite à geração de gráficos com base nas denúncias registradas.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Usuários criados automaticamente:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| CPF                                                     | Senha      | Papel              |
+| --------------------------------------------------------| ---------- | ------------------ |
+| 16136959690               | 	soOSTOP13 | Administrador      |
+| 111.111.111-11   | 123456 | Usuário Comum      |
+
+---
+
+🌐 O projeto pode ser acessado e utilizado em:  https://sos-web-production.up.railway.app/login
+
+O APK pode ser baixado e utilizado em: https://drive.google.com/file/d/1_eCC4UHN9lnxlc8ip7t_w83N3i3_ps6-/view
+
+
+📦 Tecnologias Utilizadas
+
+  1. Backend: C++ e CMake
+  2. Frontend: Dart, HTML e Swift
+  3. Framework Frontend: Flutter
+  4. Banco de Dados: PostgreSQL
+  5. Geração de Gráficos: JasperSoft
+
+📚 Documentação da API
+
+A documentação da API está acessível no arquivo "Documentação API, em formato PDF e presente neste repositório.
+
+
+🤝 Como Posso Contribuir?
+
+Para colaborar com o projeto, siga os passos abaixo:
+
+  1. Faça um Fork do repositório;
+  2. Crie uma nova branch;
+  3. Faça as modificações que achar necessário;
+  4. Envie um Pull Request com uma descrição clara e detalhada das mudanças propostas;
+  5. Aguarde a revisão e feedback da equipe que desenvolveu o protótipo.
